@@ -1,3 +1,0 @@
-# UBOpen
-Projet CoWorking
-rzh
